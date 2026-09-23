@@ -3,7 +3,7 @@
 <p>PeminjamanAlatLab adalah program sistem sederhana berbasis Java untuk mengelola peminjaman alat pada laboratorium biologi. Program ini menyediakan fitur untuk menambah peminjaman, menampilkan riwayat peminjaman, dan mengembalikan alat melalui menunya.</p>
 
 ## Penjelasan Alur Program
-<p>Saat program pertama kali di run, sistem akan memberikan output menu utama yang terdiri dari empat pilihan:</p>
+Saat program pertama kali di run, sistem akan memberikan output menu utama yang terdiri dari empat pilihan:
 1. Tampilkan Alat
 2. Tambah Peminjaman
 3. Tampilkan Riwayat Peminjaman
