@@ -15,6 +15,8 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 <img src="https://github.com/user-attachments/assets/dde8a723-cf14-4036-84ba-b9880c4c6f63" width=55% />
 </p>
 
+<br>
+
 <p>Petugas dapat melihat daftar alat yang tersedia di laboratorium melalui pilihan menu 1. Alat yang ditampilkan dikelompokkan berdasarkan kategorinya, yaitu alat lab, alat bedah, dan alat ukur. Setelah daftar alat ditampilkan, program akan otomatis kembali ke menu utama.</p>
 
 <div align=center> <img src="https://github.com/user-attachments/assets/dc64c52a-9887-42d8-b92a-a375e3b04d3a" width=45%/> <img src="https://github.com/user-attachments/assets/4c9fe8fe-4093-4878-9cfc-7a5c7891b5aa" width=45%/> </div>
