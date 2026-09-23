@@ -71,9 +71,15 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 ### Encapsulation (Enkapsulasi) 
 <p>Enkapsulasi diterapkan pada java class pada package model, menggunakan access modifier protected pada atribut di class untuk membatasi akses langsung terhadap data dari luar class. Data tersebut kemudian hanya dapat diakses melalui method getter dan setter.</p>
 
-<div align=center><img src="https://github.com/user-attachments/assets/d204f52c-5630-4631-8450-5b7c15508f0f" width=45%/><img src="https://github.com/user-attachments/assets/7144f5c6-0407-4dfd-be8c-7bcf13120574" wdith=45%/></div>
+<p align="center">
+  <b>Penerapan access modifier protected pada atribut</b><br>
+  <img src="https://github.com/user-attachments/assets/d204f52c-5630-4631-8450-5b7c15508f0f" width=60%/>
+</p>
 
-
+<p align="center">
+  <b>Penerapan getter dan setter</b><br>
+  <img src="https://github.com/user-attachments/assets/7144f5c6-0407-4dfd-be8c-7bcf13120574" width=60%/>
+</p>
 
 ### Inheritance
 
