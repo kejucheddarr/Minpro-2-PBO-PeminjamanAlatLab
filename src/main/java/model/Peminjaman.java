@@ -1,0 +1,52 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package model;
+
+/**
+ *
+ * @author HP
+ */
+public class Peminjaman {
+    protected int idPeminjaman;
+    protected String namaPetugas;
+    protected String namaAlat;
+    protected int jumlahPinjam;
+    protected String status;
+    
+    //construktor
+    public Peminjaman (int idPeminjaman, String namaPetugas, String namaAlat, int jumlahPinjam) {
+        this.idPeminjaman = idPeminjaman;
+        this.namaPetugas = namaPetugas;
+        this.namaAlat = namaAlat;
+        this.jumlahPinjam = jumlahPinjam;
+        this.status = "Dipinjam";
+    }
+    
+    //getter
+    public int getIdPeminjaman() {
+        return idPeminjaman; 
+    }
+    
+    public String getNamaPetugas() {
+        return namaPetugas;
+    }
+    
+    public String getNamaAlat() {
+        return namaAlat;
+    }
+    
+    public int getJumlahPinjam() {
+        return jumlahPinjam;
+    }
+    
+    public String getStatus() {
+        return status;
+    }
+    
+    //setter
+    public void setStatus(String status){
+        this.status = status;
+    }
+}
