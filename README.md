@@ -11,9 +11,9 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 5. Hapus Peminjaman
 6. Keluar
 
-<div align=center> <img src="https://github.com/user-attachments/assets/dde8a723-cf14-4036-84ba-b9880c4c6f63" width=55% /> </div>
-
-<br/>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dde8a723-cf14-4036-84ba-b9880c4c6f63" width=55% />
+</p>
 
 <p>Petugas dapat melihat daftar alat yang tersedia di laboratorium melalui pilihan menu 1. Alat yang ditampilkan dikelompokkan berdasarkan kategorinya, yaitu alat lab, alat bedah, dan alat ukur. Setelah daftar alat ditampilkan, program akan otomatis kembali ke menu utama.</p>
 
@@ -65,7 +65,7 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 
 <p>Jika petugas ingin keluar dari program, mereka dapat memilih menu 6, dan pengulangan menu akan berhenti.</p>
 
-<div align=center><img src="https://github.com/user-attachments/assets/87c2c392-3a0d-468e-a0b0-15d802f2f7d5" wdith=50%/></div>
+<div align=center><img src="https://github.com/user-attachments/assets/87c2c392-3a0d-468e-a0b0-15d802f2f7d5" width=50%/></div>
 
 ## Penerapan Encapsulation dan Inheritance
 ### Encapsulation (Enkapsulasi) 
