@@ -51,4 +51,11 @@ Jika petugas ingin keluar dari program, mereka dapat memilih menu 6, dan pengula
 ### Encapsulation (Enkapsulasi) 
 Enkapsulasi diterapkan dengan menggunakan access modifier protected pada atribut di class untuk membatasi akses langsung terhadap data dari luar class. Data tersebut kemudian hanya dapat diakses melalui method getter dan setter.
 
+### Inheritance
+
 ## Penerapan nilai tambah
+### Polymorphism (Method Overriding)
+method overriding di implementasikan pada alatukur dan alat bedah
+<img width="684" height="160" alt="image" src="https://github.com/user-attachments/assets/cc180bc0-a307-4ba0-9713-0a692f6785bd" />
+
+<img width="719" height="191" alt="image" src="https://github.com/user-attachments/assets/cf040e8c-9655-41c5-a23f-3d1cdc8376c8" />
