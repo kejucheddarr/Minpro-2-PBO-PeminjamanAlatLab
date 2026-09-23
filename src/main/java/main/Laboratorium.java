@@ -56,19 +56,19 @@ public class Laboratorium {
                         
                         System.out.println("\n----------- Alat Lab -----------");
                         for (AlatLab a : rakLab) {
-                            a.tampilkanAlatLab();
+                            a.tampilkanInfo();
                             System.out.println("--------------------------------");
                         }
                         
                         System.out.println("\n---------- Alat Bedah ----------");
                         for (AlatBedah a : rakBedah) {
-                            a.tampilkanInfoAlatBedah();
+                            a.tampilkanInfo();
                             System.out.println("--------------------------------");
                         }
                         
                         System.out.println("\n---------- Alat Ukur -----------");
                         for (AlatUkur a : rakUkur) {
-                            a.tampilkanInfoAlatUkur();
+                            a.tampilkanInfo();
                             System.out.println("--------------------------------");
                         }
                     }

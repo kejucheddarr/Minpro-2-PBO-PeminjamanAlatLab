@@ -28,8 +28,9 @@ public class AlatBedah extends AlatLab {
     }
     
     //method
-    public void tampilkanInfoAlatBedah() {
-        super.tampilkanAlatLab();
+    @Override
+    public void tampilkanInfo() {
+        super.tampilkanInfo();
         System.out.println("Jenis Alat: " + jenisAlat);
     }
 }

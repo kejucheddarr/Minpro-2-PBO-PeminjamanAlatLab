@@ -28,8 +28,9 @@ public class AlatUkur extends AlatLab {
     }
     
     //method
-    public void tampilkanInfoAlatUkur() {
-        super.tampilkanAlatLab();
+    @Override
+    public void tampilkanInfo() {
+        super.tampilkanInfo();
         System.out.println("Besaran: " + besaranDiukur);
     }
 }

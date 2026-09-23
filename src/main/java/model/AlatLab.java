@@ -57,7 +57,7 @@ public class AlatLab {
     }
     
     //method perilaku objek
-    public void tampilkanAlatLab() {
+    public void tampilkanInfo() {
         System.out.println("ID Alat: " + idAlat);
         System.out.println("Nama Alat: " + namaAlat);
         System.out.println("Kondisi Alat: " + kondisiAlat);
