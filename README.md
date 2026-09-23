@@ -118,7 +118,7 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 </p>
 
 ### Inheritance
-<p>Inheritance diimplementasikan pada java class _AlatLab_ sebagai induk/superclass, dengan _AlatBedah_ dan _AlatUkur_ sebagai subclass yang mewarisi atribut dan method dari _AlatLab._</p>
+<p>Inheritance diimplementasikan pada java class <i>AlatLab</i> sebagai induk/superclass, dengan <i>AlatBedah</i> dan <i>AlatUkur</i> sebagai subclass yang mewarisi atribut dan method dari <i>AlatLab.</i></p>
 
 <p align="center">
   <i>Class AlatLab (Superclass)</i><br>
@@ -137,7 +137,7 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 
 ## Penerapan nilai tambah
 ### Polymorphism (Method Overriding)
-<p>Method overriding diimplementasikan pada class _AlatBedah_ dan _AlatUkur_ dengan mengubah implementasi method _tampilkanInfo()_ yang berasal dari class _AlatLab._</p>
+<p>Method overriding diimplementasikan pada class <i>AlatBedah</i> dan <i>AlatUkur</i> dengan mengubah implementasi method <i>tampilkanInfo()</i> yang berasal dari class <i>AlatLab.</i></p>
 
 <p align="center">
   <i>Class AlatLab</i><br>
