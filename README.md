@@ -10,8 +10,8 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 4. Kembalikan Alat
 5. Hapus Peminjaman
 6. Keluar
-<br/>
-<img width="717" height="601" alt="image" src="https://github.com/user-attachments/assets/dde8a723-cf14-4036-84ba-b9880c4c6f63" /> <br/>
+
+<div align=center> <img width="717" height="601" alt="image" src="https://github.com/user-attachments/assets/dde8a723-cf14-4036-84ba-b9880c4c6f63" width=55% /> </div>
 
 Petugas dapat melihat daftar alat yang tersedia di laboratorium melalui pilihan menu 1. Alat yang ditampilkan dikelompokkan berdasarkan kategorinya, yaitu alat lab, alat bedah, dan alat ukur. Setelah daftar alat ditampilkan, program akan otomatis kembali ke menu utama. <br/>
 <img width="548" height="771" alt="image" src="https://github.com/user-attachments/assets/dc64c52a-9887-42d8-b92a-a375e3b04d3a" /> <br/>
