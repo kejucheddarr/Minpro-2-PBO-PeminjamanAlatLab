@@ -108,12 +108,12 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 <p>Enkapsulasi diterapkan pada java class pada package model, menggunakan access modifier protected pada atribut di class untuk membatasi akses langsung terhadap data dari luar class. Data tersebut kemudian hanya dapat diakses melalui method getter dan setter.</p>
 
 <p align="center">
-  <b>Penerapan access modifier protected pada atribut</b><br>
+  <i>Penerapan access modifier protected pada atribut</i><br>
   <img src="https://github.com/user-attachments/assets/d204f52c-5630-4631-8450-5b7c15508f0f" width=60%/>
 </p>
 
 <p align="center">
-  <b>Penerapan getter dan setter</b><br>
+  <i>Penerapan getter dan setter</i><br>
   <img src="https://github.com/user-attachments/assets/7144f5c6-0407-4dfd-be8c-7bcf13120574" width=60%/>
 </p>
 
@@ -121,20 +121,35 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 <p>Inheritance diimplementasikan pada java class *AlatLab* sebagai induk/superclass, dengan *AlatBedah* dan *AlatUkur* sebagai subclass yang mewarisi atribut dan method dari *AlatLab*.</p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/2e7061a6-c56a-41e3-8227-61a76a37098d" width=60%/>
+  <i>Class AlatLab (Superclass)</i>
+  <img src="https://github.com/user-attachments/assets/2e7061a6-c56a-41e3-8227-61a76a37098d" width=60%/>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d19e7c6c-5d84-4c47-bd42-68100750e371" width=60%/>
+<i>Class AlatBedah (Subclass)</i>
+  <img src="https://github.com/user-attachments/assets/d19e7c6c-5d84-4c47-bd42-68100750e371" width=60%/>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fb03a61c-579b-498a-838a-ecdc04d90677" width=60%/>
+  <i>Class AlatUkur</i>
+  <img src="https://github.com/user-attachments/assets/fb03a61c-579b-498a-838a-ecdc04d90677" width=60%/>
 </p>
 
 ## Penerapan nilai tambah
 ### Polymorphism (Method Overriding)
-method overriding di implementasikan pada alatukur dan alat bedah
-<img width="684" height="160" alt="image" src="https://github.com/user-attachments/assets/cc180bc0-a307-4ba0-9713-0a692f6785bd" />
+<p>Method overriding diimplementasikan pada class *AlatBedah* dan *AlatUkur* dengan mengubah implementasi method *tampilkanInfo()* yang berasal dari class *AlatLab*.</p>
 
-<img width="719" height="191" alt="image" src="https://github.com/user-attachments/assets/cf040e8c-9655-41c5-a23f-3d1cdc8376c8" />
+<p align="center">
+  <i>Class AlatLab</i><br>
+  <img src="https://github.com/user-attachments/assets/5cf959be-66d4-48a0-9b1c-5f7297c97fd6" width=60%/>
+</p>
+
+<p align="center">
+  <i>Class AlatBedah</i><br>
+  <img src="https://github.com/user-attachments/assets/0b805125-4228-48c2-8b4a-af9448076709" width=60%/>
+</p>
+
+<p align="center">
+  <i>Class AlatUkur</i><br>
+  <img src="https://github.com/user-attachments/assets/957c2def-9942-40bb-958a-01a754cfe8a6" width=60%/>
+</p>
