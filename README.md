@@ -121,17 +121,17 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 <p>Inheritance diimplementasikan pada java class *AlatLab* sebagai induk/superclass, dengan *AlatBedah* dan *AlatUkur* sebagai subclass yang mewarisi atribut dan method dari *AlatLab*.</p>
 
 <p align="center">
-  <i>Class AlatLab (Superclass)</i>
+  <i>Class AlatLab (Superclass)</i><br>
   <img src="https://github.com/user-attachments/assets/2e7061a6-c56a-41e3-8227-61a76a37098d" width=60%/>
 </p>
 
 <p align="center">
-<i>Class AlatBedah (Subclass)</i>
+<i>Class AlatBedah (Subclass)</i><br>
   <img src="https://github.com/user-attachments/assets/d19e7c6c-5d84-4c47-bd42-68100750e371" width=60%/>
 </p>
 
 <p align="center">
-  <i>Class AlatUkur</i>
+  <i>Class AlatUkur</i><br>
   <img src="https://github.com/user-attachments/assets/fb03a61c-579b-498a-838a-ecdc04d90677" width=60%/>
 </p>
 
