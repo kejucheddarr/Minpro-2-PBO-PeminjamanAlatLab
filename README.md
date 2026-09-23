@@ -1,9 +1,9 @@
 # Minpro-2-PBO-PeminjamanAlatLab
 ## Deskripsi Singkat Program
-PeminjamanAlatLab adalah program sistem sederhana berbasis Java untuk mengelola peminjaman alat pada laboratorium biologi. Program ini menyediakan fitur untuk menambah peminjaman, menampilkan riwayat peminjaman, dan mengembalikan alat melalui menunya.
+<p>PeminjamanAlatLab adalah program sistem sederhana berbasis Java untuk mengelola peminjaman alat pada laboratorium biologi. Program ini menyediakan fitur untuk menambah peminjaman, menampilkan riwayat peminjaman, dan mengembalikan alat melalui menunya.</p>
 
 ## Penjelasan Alur Program
-Saat program pertama kali di run, sistem akan memberikan output menu utama yang terdiri dari empat pilihan:
+<p>Saat program pertama kali di run, sistem akan memberikan output menu utama yang terdiri dari empat pilihan:</p>
 1. Tampilkan Alat
 2. Tambah Peminjaman
 3. Tampilkan Riwayat Peminjaman
@@ -11,14 +11,13 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 5. Hapus Peminjaman
 6. Keluar
 
-<div align=center> <img width="717" height="601" alt="image" src="https://github.com/user-attachments/assets/dde8a723-cf14-4036-84ba-b9880c4c6f63" width=55% /> </div>
+<div align=center> <img src="https://github.com/user-attachments/assets/dde8a723-cf14-4036-84ba-b9880c4c6f63" width=55% /> </div>
 
 <br/>
 
 <p>Petugas dapat melihat daftar alat yang tersedia di laboratorium melalui pilihan menu 1. Alat yang ditampilkan dikelompokkan berdasarkan kategorinya, yaitu alat lab, alat bedah, dan alat ukur. Setelah daftar alat ditampilkan, program akan otomatis kembali ke menu utama.</p>
 
-<img width="548" height="771" alt="image" src="https://github.com/user-attachments/assets/dc64c52a-9887-42d8-b92a-a375e3b04d3a" /> <br/>
-<img width="439" height="612" alt="image" src="https://github.com/user-attachments/assets/4c9fe8fe-4093-4878-9cfc-7a5c7891b5aa" /> <br/>
+<div align=center> <img src="https://github.com/user-attachments/assets/dc64c52a-9887-42d8-b92a-a375e3b04d3a" width=45%/> <img src="https://github.com/user-attachments/assets/4c9fe8fe-4093-4878-9cfc-7a5c7891b5aa" width=45%/> </div>
 
 Saat petugas ingin meminjam alat, mereka dapat memilih menu 2. Mereka lalu harus mengisi detail-detail seperti ID peminjaman, nama petugas, nama alat, dan jumlah yang dipinjam. Setelah data tersebut berhasil di input, sistem akan menampilkan pesan “Peminjaman berhasil ditambahkan” beserta sisa stok alatnya, lalu balik ke menu awal. <br/>
 <img width="603" height="706" alt="image" src="https://github.com/user-attachments/assets/88331399-85e6-40a4-9a59-47999647c85c" /> <br/>
