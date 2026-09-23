@@ -118,6 +118,19 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 </p>
 
 ### Inheritance
+<p>Inheritance diimplementasikan pada java class *AlatLab* sebagai induk/superclass, dengan *AlatBedah* dan *AlatUkur* sebagai subclass yang mewarisi atribut dan method dari *AlatLab*.</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/2e7061a6-c56a-41e3-8227-61a76a37098d" width=60%/>
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d19e7c6c-5d84-4c47-bd42-68100750e371" width=60%/>
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/fb03a61c-579b-498a-838a-ecdc04d90677" width=60%/>
+</p>
 
 ## Penerapan nilai tambah
 ### Polymorphism (Method Overriding)
