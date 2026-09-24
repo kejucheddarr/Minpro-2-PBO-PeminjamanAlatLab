@@ -12,7 +12,7 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 6. Keluar
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/dde8a723-cf14-4036-84ba-b9880c4c6f63" width=60% />
+<img src="https://github.com/user-attachments/assets/dde8a723-cf14-4036-84ba-b9880c4c6f63" width=80% />
 </p>
 
 <br>
